@@ -1,0 +1,44 @@
+	body {
+width: 1360px;
+height: 780px;
+margin:10px auto 5px;
+padding: 10px 30px;
+background-color: #F3F1F1;
+box-shadow: 0 0 5px black;
+}
+	hr {border: none; 
+    background-color: #C1C1C1; 
+    color: #C1C1C1; 
+    height: 2px; 
+}
+	ul {
+	padding-left:50px;
+}
+	a {
+    color: blue; 
+   }
+    p {
+	text-align: left;
+	margin: top="50px";
+	padding-left:20px;
+}
+.zagolov {
+	text-align: center;
+}
+.box {
+	width: 453px;  
+    height: 680px; 
+    padding: 20px 30px 20px 30px; /* внутренние отступы - верх, право, низ, лево */
+    margin:0 auto;
+    box-shadow: 0 0 5px grey; /* небольшая тень для объемности */
+    background-color: white; 
+    font-family:  "Times New Roman"; 
+    font-size: 12pt;
+    line-height: 1.25;   
+} 
+.pict {
+	width: 150px;
+	height: 150px;
+	display: block;
+	margin: auto;
+	}
